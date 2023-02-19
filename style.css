@@ -1,0 +1,61 @@
+body{
+    font-family: 'Shantell Sans', cursive;
+    background: rgba(201, 201, 201, 0.7)url("doodle.jpeg");
+    background-blend-mode: darken;
+  }
+canvas {
+    background-color: white;
+    border: 8px double #1d3a36;
+    border-radius: 20px;
+    margin-top: 90px;
+    box-shadow: 10px 10px 10px #2b3836;
+  }
+
+.copy_right_footer{
+    width: 100%;
+    bottom: 0px;
+    background-color: #6d9d92;
+    text-align: center;
+    position: fixed;
+    font-size: 20px;
+    padding: 5px;
+    font-family: 'Shantell Sans', cursive;
+    text-shadow: 1px 1px 1px rgb(14, 14, 14);
+    color: rgb(255, 255, 255);
+    line-height: 25px;
+  }
+  .heading_div
+  {
+    padding: 10px;
+    background-color: #6d9d92;
+    float: none;
+    border-radius: 10px; 
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 2px #266259;
+    box-shadow:5px 6px 5px #374e4b;
+  }
+
+  .heading
+  {
+    font-size: 40px;
+    font-weight: bolder;
+    width: 100%;
+    margin-top: 0px;
+  }
+
+  #input{
+      width: 55%;
+      color: black;
+      border-radius: 5px;
+      margin-right: 10px;
+  }
+  #btn{
+      background-color: #1d3a36;
+      border-radius: 5px;
+      border:double #1d3a36;
+      width: 10%;
+  }
+
+  text{
+    font-family: 'Shantell Sans', cursive;
+  }
